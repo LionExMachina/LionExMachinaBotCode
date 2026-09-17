@@ -1,5 +1,4 @@
 Here is everything we needed to setup as the Programming Team of Lion Ex Machina.
-
 ---
 ## Overview
 ### Requirements
@@ -11,5 +10,3 @@ Here is everything we needed to setup as the Programming Team of Lion Ex Machina
 #### VEX Specific
 - [EZ-Template](https://ez-robotics.github.io/EZ-Template/)
 	- Follow the installation: https://ez-robotics.github.io/EZ-Template/tutorials/installation
-
----
